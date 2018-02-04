@@ -12,7 +12,8 @@
 # your commits to more realistically mirror your computer usage.
 #
 # ...c'mon, nobody commits EVERY day ;)
-#
+# Whoops!!!!
+
 info="Commit: $(date)"
 
 cd ~/Desktop/code/commit-bot/

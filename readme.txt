@@ -1,2 +1,1 @@
-## Just a test - trying redelete :P
-### etc
+cleaned up project --

@@ -8,6 +8,9 @@ https://www.djamware.com/post/58d4ce1c80aca76428d002b8/integrating-ionic-2-googl
 https://www.djamware.com/post/5a48517280aca7059c142972/ionic-3-angular-5-firebase-and-google-maps-location-tracking
 -- More of the same . . .
 
+
+
+
 https://github.com/TmanTman/AudioRecordIonic
 
 https://blog.codewithdan.com/2017/02/08/10-angular-and-typescript-projects-to-take-you-from-zero-to-hero/

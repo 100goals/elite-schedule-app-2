@@ -2,6 +2,8 @@ cleaned up project --
 ## New Notes for New Project ##
 
 
+
+
 https://github.com/didinj/ionic3-angular5-cordova-audio-recorder-player
 https://www.djamware.com/post/5a18411b80aca75eadc12d6d/record-and-play-sound-in-ionic-3-angular-5-cordova-mobile-app
 https://www.djamware.com/post/58d4ce1c80aca76428d002b8/integrating-ionic-2-google-maps-and-geolocation-using-ionic-native
